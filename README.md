@@ -42,4 +42,4 @@ This will open a browser instance with the jupyter interface displaying current 
 
 7. From the menu bar select Kernel>Change kernel>venv
 
-8. From the menu bar select Cells>Run all 
+8. From the menu bar select Cells>Run all or Kernel>Restart & Run All
