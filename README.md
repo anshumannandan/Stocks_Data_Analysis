@@ -1,4 +1,19 @@
-# AlgoBulls_Assignment
+# <p align="center">STOCKS DATA ANALYSIS</p>
+
+- Real time stocks data using alpha vantage api
+
+![image](preview_images/stock_data.jpg)
+
+- Stock data analysis using Numpy and Pandas library
+
+- Buy / Sell indicator for stocks with timestamps
+
+![image](preview_images/indicator.jpg)
+
+- Candlestick Graph using pyalgotrading library
+
+![image](preview_images/graph.jpg)
+
 
 ## How to Run the code on your system ?
 
@@ -13,7 +28,7 @@ git clone https://github.com/anshumannandan/AlgoBulls_Assignment.git
 2. Navigate to the project directory
 
 ```CMD
-cd AlgoBulls_Assignment
+cd Stocks_Data_Analysis
 ```
 
 3. Install, Create and activate a virtual environment:
@@ -38,8 +53,6 @@ jupyter notebook
 
 This will open a browser instance with the jupyter interface displaying current directory structure
 
-6. Navigate to the notebook by selecting assignment.ipynb
+6. Navigate to the notebook by selecting analysis.ipynb
 
-7. From the menu bar select Kernel>Change kernel>venv
-
-8. From the menu bar select Cells>Run all or Kernel>Restart & Run All
+7. From the menu bar select Restart & Run All
